@@ -1,6 +1,6 @@
 {
-  "name": "streaming-status-rizentry",
-  "description": "Streming Status",
+  "name": "all-status",
+  "description": "all Status",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
